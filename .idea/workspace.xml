@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fb59365-f5a4-480d-af50-c0e4c1f712dd" name="Changes" comment="created a class bike and extended and implements other class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Car.java" afterDir="false" />
+    <list default="true" id="3fb59365-f5a4-480d-af50-c0e4c1f712dd" name="Changes" comment="created a class name car">
+      <change afterPath="$PROJECT_DIR$/src/main/java/VehicleService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/VehicleManufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VehicleManufacturer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +44,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="VehicleService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VehicleService" />
+      <module name="C3-S5-practice-Vehicle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VehicleService" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -93,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667992328528</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="created a class name car">
+      <created>1667998063139</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667998063139</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +138,7 @@
     <MESSAGE value="created class is abstract now" />
     <MESSAGE value="created interface class name&#10;Vehicle" />
     <MESSAGE value="created a class name Bike" />
-    <option name="LAST_COMMIT_MESSAGE" value="created a class name Bike" />
+    <MESSAGE value="created a class name car" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a class name car" />
   </component>
 </project>
