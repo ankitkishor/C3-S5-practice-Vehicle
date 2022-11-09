@@ -18,13 +18,13 @@ public class Bike extends VehicleManufacturer implements Vehicle {
                 ", Type = " + getVehicleType() +
                 '}';
     }
-    public int maxSpeed(String vehicleType)
+    public int maxSpeed(String type)
     {
-        if(vehicleType.equals("sportsBike"))
+        if(type.equals("sportsBike"))
         {
             return 300;
         }
-        if (vehicleType.equals("cruiser"))
+        if (type.equals("cruiser"))
         {
             return 170;
         }
