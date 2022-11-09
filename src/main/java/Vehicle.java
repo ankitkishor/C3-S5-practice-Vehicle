@@ -1,3 +1,3 @@
-public interface Vehicle {
-    int maxSpeed(String vehicleType);
+interface Vehicle {
+    int maxSpeed(String type);
 }
