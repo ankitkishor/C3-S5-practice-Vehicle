@@ -10,10 +10,7 @@ public abstract class VehicleManufacturer {
     private String vehicleModelName;
     private String vehicleType;
 
-    public VehicleManufacturer() {
-    }
-
-    public VehicleManufacturer(String vehicleName,
+      public VehicleManufacturer(String vehicleName,
                                String vehicleModelName,
                                String vehicleType) {
         this.vehicleName = vehicleName;
@@ -45,5 +42,6 @@ public abstract class VehicleManufacturer {
         this.vehicleType = vehicleType;
     }
     public abstract String getManufacturerInformation();
+
 
 }

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fb59365-f5a4-480d-af50-c0e4c1f712dd" name="Changes" comment="created interface class name&#10;Vehicle">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Vehicle.java" afterDir="false" />
+    <list default="true" id="3fb59365-f5a4-480d-af50-c0e4c1f712dd" name="Changes" comment="created a class bike and extended and implements other class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bike.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/VehicleManufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VehicleManufacturer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667991958152</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="created a class name Bike">
+      <created>1667992328528</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667992328528</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +114,7 @@
     <MESSAGE value="added variable and constructor" />
     <MESSAGE value="created class is abstract now" />
     <MESSAGE value="created interface class name&#10;Vehicle" />
-    <option name="LAST_COMMIT_MESSAGE" value="created interface class name&#10;Vehicle" />
+    <MESSAGE value="created a class name Bike" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a class name Bike" />
   </component>
 </project>
