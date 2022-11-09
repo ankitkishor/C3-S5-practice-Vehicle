@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fb59365-f5a4-480d-af50-c0e4c1f712dd" name="Changes" comment="updated the jdk version from 19 to 11.">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="3fb59365-f5a4-480d-af50-c0e4c1f712dd" name="Changes" comment="created interface class name&#10;Vehicle">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bike.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VehicleManufacturer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/VehicleManufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VehicleManufacturer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -35,13 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +65,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667985541225</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="created a class name VehicleManufacturer">
+      <created>1667991840293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667991840293</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added variable and constructor">
+      <created>1667991917996</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667991917996</updated>
+    </task>
+    <task id="LOCAL-00005" summary="created class is abstract now">
+      <created>1667991958152</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667991958152</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +103,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="updated the jdk version from 19 to 11." />
-    <option name="LAST_COMMIT_MESSAGE" value="updated the jdk version from 19 to 11." />
+    <MESSAGE value="created a class name VehicleManufacturer" />
+    <MESSAGE value="added variable and constructor" />
+    <MESSAGE value="created class is abstract now" />
+    <MESSAGE value="created interface class name&#10;Vehicle" />
+    <option name="LAST_COMMIT_MESSAGE" value="created interface class name&#10;Vehicle" />
   </component>
 </project>
